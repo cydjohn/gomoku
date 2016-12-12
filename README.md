@@ -1,1 +1,3 @@
 # gomoku
+
+qt 5
